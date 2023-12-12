@@ -8,7 +8,7 @@
 
 ## 💻 Projeto
 
-Este projeto é uma recostrução de site do filme **Reasgate** presente na Netflix usando  _HTML_ e _CSS_.
+Este projeto é uma recostrução da pagina do filme **Reasgate** presente na Netflix usando  _HTML_ e _CSS_.
 
 ## 🚀 Tecnologias
 
