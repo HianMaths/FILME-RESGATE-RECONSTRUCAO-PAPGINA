@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src=".github/tela_desktop.png" width="100%" />
+  <img src="./github_Image_Project/tela_desktop.png" width="100%" />
 </p>
 
 ## 💻 Projeto
