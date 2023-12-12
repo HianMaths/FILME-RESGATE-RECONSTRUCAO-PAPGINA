@@ -14,3 +14,8 @@ Este projeto é uma recostrução da pagina do filme **Resgate** presente na Net
 
 - HTML
 - CSS
+## 📔 Conhecimentos abordados
+
+- [x] Uso semântico do HTML
+- [x] Carregamento de video no background
+- [x] Váriaveis do css no `:root`
